@@ -1,0 +1,10 @@
+openai-whisper
+librosa
+soundfile
+noisereduce
+openpyxl
+rapidfuzz
+jiwer
+torch
+torchaudio
+numpy
