@@ -13,7 +13,7 @@ Evaluation test submission for the project **"Audio-to-text transcription for se
 
 The Elicited Imitation Task (EIT) is a language proficiency assessment where learners listen to spoken sentences and repeat them verbatim. This pipeline automates the transcription of learner responses from audio recordings into text, enabling large-scale analysis without manual transcription.
 
-The core challenge is that standard ASR tools struggle with non-native speech — learners produce phonological errors, disfluencies, incomplete repetitions, and L1 transfer effects that native-speech models are not trained to handle
+The core challenge is that standard ASR tools struggle with non-native speech — learners produce phonological errors, disfluencies, incomplete repetitions, and L1 transfer effects that native-speech models are not trained to handle.
 
 ---
 
